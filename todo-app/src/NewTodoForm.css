@@ -1,0 +1,9 @@
+.NewTodoForm{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.todo-input{
+    margin: 0 8px;
+}

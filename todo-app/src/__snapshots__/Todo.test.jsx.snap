@@ -1,0 +1,25 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`it matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="Todo-group"
+  >
+    <li
+      class="Todo-task "
+    >
+      test
+    </li>
+    <button
+      class="Todo-btn"
+    >
+      Delete
+    </button>
+    <button
+      class="Todo-btn done-btn"
+    >
+      Mark as done
+    </button>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,19 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`it matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="Box-group"
+  >
+    <div
+      class="Box"
+      style="background-color: red; width: 100px; height: 100px;"
+    />
+    <button
+      class="Box-btn"
+    >
+      X
+    </button>
+  </div>
+</DocumentFragment>
+`;
